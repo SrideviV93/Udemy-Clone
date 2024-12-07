@@ -5,7 +5,8 @@
 
 This is a **Udemy Clone** project developed using **HTML** and **CSS**. The project aims to replicate the general layout and design of Udemy's platform to practice and demonstrate front-end web development skills.
 ## Visit My Project
-  
+
+https://srideviv93.github.io/Udemy-Clone/ 
 
 ## Features
 - **Responsive Design**: The site is designed to be fully responsive, adapting to different screen sizes, from desktops to mobile devices.
